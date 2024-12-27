@@ -1,0 +1,817 @@
+Geography,Question Code,Question Text,Response Category,Response Variable,Gender,Value
+Mexico,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.27
+Mexico,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.39
+Mexico,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.81
+Argentina,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.68
+Argentina,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.51
+Argentina,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,8.02
+Bolivia,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,7.65
+Bolivia,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,6.74
+Bolivia,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.18
+Brazil,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.33
+Brazil,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.47
+Brazil,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.85
+Chile,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.87
+Chile,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.60
+Chile,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,8.17
+Colombia,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,7.63
+Colombia,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,6.93
+Colombia,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.24
+Costa Rica,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.35
+Costa Rica,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.25
+Costa Rica,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.77
+Ecuador,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,7.92
+Ecuador,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,6.60
+Ecuador,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.28
+El Salvador,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.01
+El Salvador,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,6.92
+El Salvador,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.49
+Guatemala,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.25
+Guatemala,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.08
+Guatemala,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.72
+Haiti,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,7.38
+Haiti,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.35
+Haiti,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.31
+Honduras,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,7.83
+Honduras,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.45
+Honduras,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.66
+Nicaragua,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.30
+Nicaragua,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.28
+Nicaragua,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.79
+Panama,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,7.65
+Panama,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,6.70
+Panama,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.21
+Paraguay,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.68
+Paraguay,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,7.15
+Paraguay,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.90
+Peru,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,7.90
+Peru,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,6.83
+Peru,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,7.42
+Uruguay,B.1,Number of hours spent per day at work last week,,b1_hours_work,male,8.70
+Uruguay,B.1,Number of hours spent per day at work last week,,b1_hours_work,female,8.16
+Uruguay,B.1,Number of hours spent per day at work last week,,b1_hours_work,combined,8.39
+Mexico,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,61.00
+Mexico,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,70.00
+Mexico,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,66.00
+Argentina,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,63.00
+Argentina,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,67.00
+Argentina,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,65.00
+Bolivia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,75.00
+Bolivia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,78.00
+Bolivia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,77.00
+Brazil,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,39.00
+Brazil,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,50.00
+Brazil,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,54.00
+Chile,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,67.00
+Chile,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,66.00
+Chile,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,66.00
+Colombia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,72.00
+Colombia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,77.00
+Colombia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,75.00
+Costa Rica,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,65.00
+Costa Rica,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,72.00
+Costa Rica,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,69.00
+Ecuador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,77.00
+Ecuador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,85.00
+Ecuador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,81.00
+El Salvador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,73.00
+El Salvador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,79.00
+El Salvador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,76.00
+Guatemala,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,72.00
+Guatemala,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,78.00
+Guatemala,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,75.00
+Haiti,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,81.00
+Haiti,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,85.00
+Haiti,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,82.00
+Honduras,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,76.00
+Honduras,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,78.00
+Honduras,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,77.00
+Nicaragua,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,72.00
+Nicaragua,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,77.00
+Nicaragua,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,75.00
+Panama,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,75.00
+Panama,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,74.00
+Panama,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,74.00
+Paraguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,67.00
+Paraguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,70.00
+Paraguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,69.00
+Peru,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,73.00
+Peru,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,73.00
+Peru,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,73.00
+Uruguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,male,47.00
+Uruguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,female,43.00
+Uruguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",Yes,b10_yes,combined,56.00
+Mexico,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,39.00
+Mexico,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,30.00
+Mexico,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,34.00
+Argentina,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,37.00
+Argentina,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,33.00
+Argentina,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,35.00
+Bolivia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,25.00
+Bolivia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,22.00
+Bolivia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,23.00
+Brazil,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,39.00
+Brazil,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,50.00
+Brazil,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,46.00
+Chile,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,33.00
+Chile,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,34.00
+Chile,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,34.00
+Colombia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,28.00
+Colombia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,23.00
+Colombia,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,25.00
+Costa Rica,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,35.00
+Costa Rica,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,28.00
+Costa Rica,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,31.00
+Ecuador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,23.00
+Ecuador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,15.00
+Ecuador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,19.00
+El Salvador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,27.00
+El Salvador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,21.00
+El Salvador,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,24.00
+Guatemala,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,28.00
+Guatemala,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,22.00
+Guatemala,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,25.00
+Haiti,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,19.00
+Haiti,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,15.00
+Haiti,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,18.00
+Honduras,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,24.00
+Honduras,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,22.00
+Honduras,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,23.00
+Nicaragua,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,28.00
+Nicaragua,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,23.00
+Nicaragua,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,25.00
+Panama,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,25.00
+Panama,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,26.00
+Panama,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,26.00
+Paraguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,33.00
+Paraguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,30.00
+Paraguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,31.00
+Peru,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,27.00
+Peru,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,27.00
+Peru,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,27.00
+Uruguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,male,47.00
+Uruguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,female,43.00
+Uruguay,B.10,"During the last 30 days, was there a time when you were worried about not having enough food to eat because of lack of money or other resources?",No,b10_no,combined,45.00
+Mexico,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,63.00
+Mexico,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,41.00
+Mexico,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,51.00
+Argentina,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,70.00
+Argentina,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,55.00
+Argentina,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,61.00
+Bolivia,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,57.00
+Bolivia,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,44.00
+Bolivia,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,50.00
+Brazil,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,68.00
+Brazil,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,56.00
+Brazil,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,61.00
+Chile,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,73.00
+Chile,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,59.00
+Chile,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,65.00
+Colombia,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,57.00
+Colombia,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,47.00
+Colombia,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,51.00
+Costa Rica,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,69.00
+Costa Rica,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,43.00
+Costa Rica,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,54.00
+Ecuador,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,53.00
+Ecuador,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,35.00
+Ecuador,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,44.00
+El Salvador,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,64.00
+El Salvador,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,46.00
+El Salvador,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,55.00
+Guatemala,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,62.00
+Guatemala,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,37.00
+Guatemala,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,50.00
+Haiti,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,60.00
+Haiti,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,44.00
+Haiti,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,54.00
+Honduras,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,54.00
+Honduras,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,37.00
+Honduras,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,45.00
+Nicaragua,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,59.00
+Nicaragua,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,43.00
+Nicaragua,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,51.00
+Panama,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,73.00
+Panama,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,54.00
+Panama,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,63.00
+Paraguay,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,67.00
+Paraguay,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,48.00
+Paraguay,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,56.00
+Peru,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,57.00
+Peru,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,38.00
+Peru,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,48.00
+Uruguay,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,male,76.00
+Uruguay,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,female,58.00
+Uruguay,B.2,Who are the main income earners in your household? (including earnings sent from another area/country),Self,b2_self,combined,64.00
+Mexico,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,31.00
+Mexico,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,54.00
+Mexico,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,43.00
+Argentina,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,36.00
+Argentina,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,49.00
+Argentina,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,44.00
+Bolivia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,37.00
+Bolivia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,54.00
+Bolivia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,46.00
+Brazil,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,66.00
+Brazil,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,52.00
+Brazil,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,58.00
+Chile,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,33.00
+Chile,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,53.00
+Chile,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,44.00
+Colombia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,42.00
+Colombia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,57.00
+Colombia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,51.00
+Costa Rica,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,35.00
+Costa Rica,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,61.00
+Costa Rica,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,49.00
+Ecuador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,46.00
+Ecuador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,63.00
+Ecuador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,55.00
+El Salvador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,39.00
+El Salvador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,51.00
+El Salvador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,45.00
+Guatemala,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,33.00
+Guatemala,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,60.00
+Guatemala,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,46.00
+Haiti,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,41.00
+Haiti,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,45.00
+Haiti,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,42.00
+Honduras,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,41.00
+Honduras,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,60.00
+Honduras,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,51.00
+Nicaragua,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,36.00
+Nicaragua,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,56.00
+Nicaragua,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,46.00
+Panama,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,29.00
+Panama,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,54.00
+Panama,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,42.00
+Paraguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,32.00
+Paraguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,48.00
+Paraguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,41.00
+Peru,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,35.00
+Peru,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,58.00
+Peru,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,46.00
+Uruguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,male,32.00
+Uruguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,female,51.00
+Uruguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Does not fully cover own expenses,b3_dependent,combined,44.00
+Mexico,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,69.00
+Mexico,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,46.00
+Mexico,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,57.00
+Argentina,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,64.00
+Argentina,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,51.00
+Argentina,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,56.00
+Bolivia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,63.00
+Bolivia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,46.00
+Bolivia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,54.00
+Brazil,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,66.00
+Brazil,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,52.00
+Brazil,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,58.00
+Chile,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,67.00
+Chile,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,47.00
+Chile,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,56.00
+Colombia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,58.00
+Colombia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,43.00
+Colombia,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,49.00
+Costa Rica,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,65.00
+Costa Rica,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,39.00
+Costa Rica,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,51.00
+Ecuador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,54.00
+Ecuador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,37.00
+Ecuador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,45.00
+El Salvador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,61.00
+El Salvador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,49.00
+El Salvador,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,55.00
+Guatemala,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,67.00
+Guatemala,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,40.00
+Guatemala,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,54.00
+Haiti,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,59.00
+Haiti,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,55.00
+Haiti,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,58.00
+Honduras,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,59.00
+Honduras,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,40.00
+Honduras,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,49.00
+Nicaragua,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,64.00
+Nicaragua,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,44.00
+Nicaragua,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,54.00
+Panama,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,71.00
+Panama,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,46.00
+Panama,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,58.00
+Paraguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,68.00
+Paraguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,52.00
+Paraguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,59.00
+Peru,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,65.00
+Peru,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,42.00
+Peru,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,54.00
+Uruguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,male,68.00
+Uruguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,female,49.00
+Uruguay,B.3,"During the last 12 months, which of the following -most closely- reflects your current financial situation?",Fully cover own expenses or fully covers their own expenses and others expenses,b3_fullyindependent,combined,56.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,27.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,18.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,22.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,18.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,15.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,16.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,55.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,67.00
+Mexico,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,62.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,27.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,16.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,20.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,13.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,12.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,12.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,60.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,73.00
+Argentina,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,68.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,29.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,23.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,26.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,19.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,17.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,18.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,52.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,61.00
+Bolivia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,56.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,25.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,16.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,20.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,13.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,14.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,14.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,62.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,69.00
+Brazil,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,66.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,22.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,11.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,15.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,15.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,10.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,12.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,63.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,80.00
+Chile,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,73.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,27.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,16.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,21.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,14.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,13.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,13.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,59.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,71.00
+Colombia,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,66.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,20.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,14.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,16.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,9.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,10.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,9.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,72.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,76.00
+Costa Rica,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,74.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,37.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,23.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,30.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,15.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,14.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,15.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,48.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,62.00
+Ecuador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,55.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,25.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,19.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,22.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,16.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,13.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,14.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,59.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,67.00
+El Salvador,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,63.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,36.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,26.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,31.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,16.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,18.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,17.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,48.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,57.00
+Guatemala,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,52.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,59.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,49.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,55.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,11.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,11.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,11.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,31.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,41.00
+Haiti,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,34.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,40.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,33.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,36.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,16.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,15.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,15.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,44.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,52.00
+Honduras,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,48.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,30.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,22.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,26.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,12.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,14.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,13.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,58.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,65.00
+Nicaragua,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,61.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,30.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,20.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,25.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,13.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,14.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,14.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,57.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,66.00
+Panama,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,62.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,29.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,21.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,24.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,14.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,14.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,14.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,58.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,65.00
+Paraguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,62.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,33.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,20.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,26.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,12.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,9.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,11.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,56.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,71.00
+Peru,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,63.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,male,19.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,female,13.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Agree/Agree,b4_agree,combined,15.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,male,12.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,female,10.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Neutral,b4_neutral,combined,10.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,male,69.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,female,77.00
+Uruguay,B.4,"How much do you agree or disagree with the following statement, “Household expenses are the responsibility of the man, even if his wife can help him?""",Strongly Disagree/Disagree,b4_disagree,combined,75.00
+Mexico,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,6.19
+Mexico,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.89
+Mexico,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,6.03
+Argentina,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.21
+Argentina,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.55
+Argentina,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.38
+Bolivia,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.68
+Bolivia,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.72
+Bolivia,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.69
+Brazil,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.28
+Brazil,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.43
+Brazil,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.37
+Chile,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.54
+Chile,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.72
+Chile,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.65
+Colombia,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.38
+Colombia,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.46
+Colombia,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.42
+Costa Rica,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.47
+Costa Rica,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.54
+Costa Rica,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.49
+Ecuador,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.83
+Ecuador,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.92
+Ecuador,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.86
+El Salvador,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.79
+El Salvador,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.67
+El Salvador,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.73
+Guatemala,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,6.06
+Guatemala,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,6.38
+Guatemala,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,6.24
+Haiti,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.96
+Haiti,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,6.00
+Haiti,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.97
+Honduras,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,6.16
+Honduras,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,6.19
+Honduras,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,6.19
+Nicaragua,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.81
+Nicaragua,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.96
+Nicaragua,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.90
+Panama,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.44
+Panama,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.11
+Panama,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.24
+Paraguay,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.50
+Paraguay,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.98
+Paraguay,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.78
+Peru,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.91
+Peru,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,6.07
+Peru,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.97
+Uruguay,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,male,5.23
+Uruguay,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,female,5.07
+Uruguay,B.5,"Out of 10 of your neighbors, how many do you think believe that household expenses are the responsibility of the man, even if his wife can help him?",,b5_man_other,combined,5.10
+Mexico,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,44.00
+Mexico,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,56.00
+Mexico,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Argentina,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,38.00
+Argentina,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,62.00
+Argentina,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Bolivia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,49.00
+Bolivia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,51.00
+Bolivia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Brazil,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,37.00
+Brazil,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,63.00
+Brazil,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Chile,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,41.00
+Chile,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,59.00
+Chile,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Colombia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,41.00
+Colombia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,59.00
+Colombia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Costa Rica,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,42.00
+Costa Rica,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,58.00
+Costa Rica,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Ecuador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,55.00
+Ecuador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,45.00
+Ecuador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+El Salvador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,50.00
+El Salvador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,50.00
+El Salvador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Guatemala,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,51.00
+Guatemala,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,49.00
+Guatemala,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Haiti,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,66.00
+Haiti,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,34.00
+Haiti,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Honduras,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,49.00
+Honduras,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,51.00
+Honduras,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Nicaragua,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,47.00
+Nicaragua,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,53.00
+Nicaragua,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Panama,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,45.00
+Panama,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,55.00
+Panama,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Paraguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,41.00
+Paraguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,59.00
+Paraguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Peru,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,53.00
+Peru,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,47.00
+Peru,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Uruguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,male,34.00
+Uruguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,female,66.00
+Uruguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?",Wages from employment of household members,b6_wage,combined,100.00
+Mexico,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,49.00
+Mexico,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,51.00
+Mexico,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Argentina,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,40.00
+Argentina,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,60.00
+Argentina,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Bolivia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,49.00
+Bolivia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,51.00
+Bolivia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Brazil,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,40.00
+Brazil,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,60.00
+Brazil,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Chile,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,41.00
+Chile,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,59.00
+Chile,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Colombia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,45.00
+Colombia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,55.00
+Colombia,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Costa Rica,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,42.00
+Costa Rica,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,58.00
+Costa Rica,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Ecuador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,47.00
+Ecuador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,53.00
+Ecuador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+El Salvador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,49.00
+El Salvador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,51.00
+El Salvador,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Guatemala,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,51.00
+Guatemala,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,49.00
+Guatemala,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Haiti,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,66.00
+Haiti,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,34.00
+Haiti,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Honduras,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,47.00
+Honduras,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,53.00
+Honduras,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Nicaragua,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,48.00
+Nicaragua,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,52.00
+Nicaragua,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Panama,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,44.00
+Panama,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,56.00
+Panama,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Paraguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,43.00
+Paraguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,57.00
+Paraguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Peru,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,51.00
+Peru,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,49.00
+Peru,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Uruguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,male,36.00
+Uruguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,female,64.00
+Uruguay,B.6,"In the last 12 months, which of the following were your household’s sources of livelihood?","Any response except ""Wage""",b6_non_wage,combined,100.00
+Mexico,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,35.00
+Mexico,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,31.00
+Mexico,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,33.00
+Argentina,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,48.00
+Argentina,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,46.00
+Argentina,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,47.00
+Bolivia,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,28.00
+Bolivia,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,20.00
+Bolivia,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,24.00
+Brazil,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,65.00
+Brazil,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,60.00
+Brazil,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,62.00
+Chile,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,41.00
+Chile,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,41.00
+Chile,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,41.00
+Colombia,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,24.00
+Colombia,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,18.00
+Colombia,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,21.00
+Costa Rica,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,35.00
+Costa Rica,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,28.00
+Costa Rica,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,31.00
+Ecuador,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,21.00
+Ecuador,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,15.00
+Ecuador,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,18.00
+El Salvador,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,31.00
+El Salvador,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,25.00
+El Salvador,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,28.00
+Guatemala,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,25.00
+Guatemala,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,18.00
+Guatemala,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,22.00
+Haiti,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,37.00
+Haiti,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,29.00
+Haiti,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,34.00
+Honduras,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,27.00
+Honduras,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,15.00
+Honduras,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,21.00
+Nicaragua,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,29.00
+Nicaragua,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,28.00
+Nicaragua,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,29.00
+Panama,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,34.00
+Panama,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,26.00
+Panama,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,30.00
+Paraguay,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,30.00
+Paraguay,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,24.00
+Paraguay,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,27.00
+Peru,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,26.00
+Peru,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,21.00
+Peru,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,24.00
+Uruguay,B.7,What level of access to household money do you personally have?,Full access,b7_full,male,50.00
+Uruguay,B.7,What level of access to household money do you personally have?,Full access,b7_full,female,51.00
+Uruguay,B.7,What level of access to household money do you personally have?,Full access,b7_full,combined,51.00
+Mexico,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,65.00
+Mexico,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,69.00
+Mexico,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,67.00
+Argentina,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,52.00
+Argentina,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,54.00
+Argentina,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,53.00
+Bolivia,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,72.00
+Bolivia,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,80.00
+Bolivia,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,76.00
+Brazil,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,35.00
+Brazil,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,40.00
+Brazil,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,38.00
+Chile,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,59.00
+Chile,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,59.00
+Chile,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,59.00
+Colombia,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,76.00
+Colombia,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,82.00
+Colombia,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,79.00
+Costa Rica,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,65.00
+Costa Rica,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,72.00
+Costa Rica,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,69.00
+Ecuador,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,79.00
+Ecuador,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,85.00
+Ecuador,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,82.00
+El Salvador,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,69.00
+El Salvador,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,75.00
+El Salvador,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,72.00
+Guatemala,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,75.00
+Guatemala,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,82.00
+Guatemala,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,78.00
+Haiti,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,63.00
+Haiti,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,71.00
+Haiti,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,66.00
+Honduras,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,73.00
+Honduras,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,85.00
+Honduras,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,79.00
+Nicaragua,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,71.00
+Nicaragua,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,72.00
+Nicaragua,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,71.00
+Panama,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,66.00
+Panama,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,74.00
+Panama,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,70.00
+Paraguay,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,70.00
+Paraguay,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,76.00
+Paraguay,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,73.00
+Peru,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,74.00
+Peru,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,79.00
+Peru,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,76.00
+Uruguay,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,male,50.00
+Uruguay,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,female,49.00
+Uruguay,B.7,What level of access to household money do you personally have?,Limited or No access,b7_limited,combined,49.00
+Mexico,B.8,Who normally decides about large purchases in your household?,Self,b8,male,14.00
+Mexico,B.8,Who normally decides about large purchases in your household?,Self,b8,female,20.00
+Mexico,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,17.00
+Argentina,B.8,Who normally decides about large purchases in your household?,Self,b8,male,24.00
+Argentina,B.8,Who normally decides about large purchases in your household?,Self,b8,female,36.00
+Argentina,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,31.00
+Bolivia,B.8,Who normally decides about large purchases in your household?,Self,b8,male,19.00
+Bolivia,B.8,Who normally decides about large purchases in your household?,Self,b8,female,22.00
+Bolivia,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,21.00
+Brazil,B.8,Who normally decides about large purchases in your household?,Self,b8,male,27.00
+Brazil,B.8,Who normally decides about large purchases in your household?,Self,b8,female,30.00
+Brazil,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,28.00
+Chile,B.8,Who normally decides about large purchases in your household?,Self,b8,male,20.00
+Chile,B.8,Who normally decides about large purchases in your household?,Self,b8,female,38.00
+Chile,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,30.00
+Colombia,B.8,Who normally decides about large purchases in your household?,Self,b8,male,18.00
+Colombia,B.8,Who normally decides about large purchases in your household?,Self,b8,female,25.00
+Colombia,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,22.00
+Costa Rica,B.8,Who normally decides about large purchases in your household?,Self,b8,male,17.00
+Costa Rica,B.8,Who normally decides about large purchases in your household?,Self,b8,female,26.00
+Costa Rica,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,22.00
+Ecuador,B.8,Who normally decides about large purchases in your household?,Self,b8,male,16.00
+Ecuador,B.8,Who normally decides about large purchases in your household?,Self,b8,female,19.00
+Ecuador,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,18.00
+El Salvador,B.8,Who normally decides about large purchases in your household?,Self,b8,male,16.00
+El Salvador,B.8,Who normally decides about large purchases in your household?,Self,b8,female,24.00
+El Salvador,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,20.00
+Guatemala,B.8,Who normally decides about large purchases in your household?,Self,b8,male,15.00
+Guatemala,B.8,Who normally decides about large purchases in your household?,Self,b8,female,19.00
+Guatemala,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,17.00
+Haiti,B.8,Who normally decides about large purchases in your household?,Self,b8,male,33.00
+Haiti,B.8,Who normally decides about large purchases in your household?,Self,b8,female,38.00
+Haiti,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,35.00
+Honduras,B.8,Who normally decides about large purchases in your household?,Self,b8,male,19.00
+Honduras,B.8,Who normally decides about large purchases in your household?,Self,b8,female,27.00
+Honduras,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,23.00
+Nicaragua,B.8,Who normally decides about large purchases in your household?,Self,b8,male,15.00
+Nicaragua,B.8,Who normally decides about large purchases in your household?,Self,b8,female,26.00
+Nicaragua,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,21.00
+Panama,B.8,Who normally decides about large purchases in your household?,Self,b8,male,24.00
+Panama,B.8,Who normally decides about large purchases in your household?,Self,b8,female,30.00
+Panama,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,27.00
+Paraguay,B.8,Who normally decides about large purchases in your household?,Self,b8,male,24.00
+Paraguay,B.8,Who normally decides about large purchases in your household?,Self,b8,female,27.00
+Paraguay,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,25.00
+Peru,B.8,Who normally decides about large purchases in your household?,Self,b8,male,17.00
+Peru,B.8,Who normally decides about large purchases in your household?,Self,b8,female,18.00
+Peru,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,17.00
+Uruguay,B.8,Who normally decides about large purchases in your household?,Self,b8,male,19.00
+Uruguay,B.8,Who normally decides about large purchases in your household?,Self,b8,female,36.00
+Uruguay,B.8,Who normally decides about large purchases in your household?,Self,b8,combined,30.00
+Mexico,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,14.00
+Mexico,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,18.00
+Mexico,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,16.00
+Argentina,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,25.00
+Argentina,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,35.00
+Argentina,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,31.00
+Bolivia,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,20.00
+Bolivia,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,23.00
+Bolivia,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,21.00
+Brazil,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,29.00
+Brazil,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,31.00
+Brazil,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,30.00
+Chile,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,20.00
+Chile,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,36.00
+Chile,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,30.00
+Colombia,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,17.00
+Colombia,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,24.00
+Colombia,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,21.00
+Costa Rica,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,18.00
+Costa Rica,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,26.00
+Costa Rica,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,22.00
+Ecuador,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,18.00
+Ecuador,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,19.00
+Ecuador,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,19.00
+El Salvador,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,19.00
+El Salvador,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,20.00
+El Salvador,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,20.00
+Guatemala,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,18.00
+Guatemala,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,18.00
+Guatemala,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,18.00
+Haiti,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,37.00
+Haiti,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,31.00
+Haiti,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,35.00
+Honduras,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,22.00
+Honduras,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,23.00
+Honduras,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,22.00
+Nicaragua,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,16.00
+Nicaragua,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,24.00
+Nicaragua,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,20.00
+Panama,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,28.00
+Panama,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,30.00
+Panama,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,29.00
+Paraguay,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,28.00
+Paraguay,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,25.00
+Paraguay,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,26.00
+Peru,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,19.00
+Peru,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,18.00
+Peru,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,18.00
+Uruguay,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,male,19.00
+Uruguay,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,female,35.00
+Uruguay,B.9,"Who decides about money spending priorities in critical or urgent matters within your household (e.g., medical emergency, family member job loss, etc.)?",Self,b9,combined,30.00
