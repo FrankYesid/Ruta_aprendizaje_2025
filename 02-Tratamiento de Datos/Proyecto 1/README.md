@@ -26,12 +26,12 @@ El dataset contiene información diaria de trading desde 1980 hasta 2024 con las
 
 ### 2️⃣ **Informe Automatizado con Sweetviz**
 - Se utiliza **Sweetviz** para generar un informe exploratorio detallado que incluye estadísticas descriptivas, gráficos comparativos y la detección de valores faltantes o inconsistencias.
-- El informe se guarda como un archivo HTML (`sweetviz_report.html`) y se puede abrir en cualquier navegador.
+- El informe se guarda como un archivo HTML (`EDA_df_Toyota_Stock.html`) y se puede abrir en cualquier navegador.
 
 ```python
 import sweetviz as sv
 report = sv.analyze(data)
-report.show_html('sweetviz_report.html')
+report.show_html('EDA_df_Toyota_Stock.html')
 ```
 
 ### 3️⃣ **Pipeline de Preprocesamiento**
@@ -95,7 +95,7 @@ sns.boxplot(data=data_cleaned[['Adj Close', 'Close', 'High', 'Low', 'Open']])
    ```
 3. Ejecuta el cuaderno Jupyter (`Toyota_Stock_Analysis.ipynb`).
 4. Abre el informe de Sweetviz:
-   - Busca el archivo `sweetviz_report.html` generado en tu directorio de trabajo.
+   - Busca el archivo `EDA_df_Toyota_Stock.html` generado en tu directorio de trabajo.
 
 ---
 
@@ -103,10 +103,10 @@ sns.boxplot(data=data_cleaned[['Adj Close', 'Close', 'High', 'Low', 'Open']])
 
 ```plaintext
 Toyota_Stock_Analysis/
-├── toyota_stock.csv         # Dataset original
+├── data/toyota_stock.csv        # Dataset original
 ├── Toyota_Stock_Analysis.ipynb  # Cuaderno de análisis
-├── sweetviz_report.html     # Informe HTML de Sweetviz
-├── README.md                # Descripción del proyecto
+├── html/EDA_df_Toyota_Stock.html    # Informe HTML de Sweetviz
+├── README.md                    # Descripción del proyecto
 ```
 
 ---
